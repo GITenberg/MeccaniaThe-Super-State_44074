@@ -1,0 +1,24 @@
+_repo: MeccaniaThe-Super-State_44074
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44074-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gregory, Owen
+    gutenberg_agent_id: '42554'
+    url: http://www.gutenberg.org/2009/agents/42554
+description: ''
+gutenberg_issued: '2013-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44074'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dystopias -- Fiction'
+- !lcc 'PR'
+title: Meccania, the Super-State
+url: http://www.gutenberg.org/ebooks/44074
